@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Nghia 👋
 
-<!--
-**evice2457/evice2457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student @ University of Technology Sydney (UTS)
 
-Here are some ideas to get you started:
+💻 Backend Engineer with a strong interest in AI systems and distributed infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Assistant @ IVS
+- Computer Vision
+- Robotics
+- LiDAR Perception
+
+🚀 Co-Founder @ Odylytics
+Building AquaGuard, a disaster response platform improving flood resilience and emergency coordination.
+
+---
+
+## Current Focus
+
+- Backend Engineering
+- AI Infrastructure
+- Computer Vision
+- Robotics
+- Distributed Systems
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Python • Go • C++ • Java • SQL
+
+**Backend**
+
+FastAPI • Flask • Node.js • REST APIs • PostgreSQL • Docker
+
+**AI**
+
+PyTorch • OpenCV • ROS • NumPy • Computer Vision
+
+**Tools**
+
+Git • Linux • Ubuntu • GitHub Actions
+
+---
+
+## Currently Learning
+
+- Scalable Backend Systems
+- LLM Infrastructure
+- Cloud Computing
+- Kubernetes
+
+---
+
+## Featured Projects
+
+🚀 AquaGuard
+Flood emergency response platform (Web + iOS)
+
+🤖 Pothole Surface Reconstruction
+Monotonic Neural Networks + Computer Vision
+
+🛠 Backend APIs
+High-performance backend services built during Boot.dev
