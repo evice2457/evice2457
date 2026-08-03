@@ -37,21 +37,21 @@ Building **AquaGuard**, a disaster response platform for flood preparedness and 
 
 ## 🛠 Tech Stack
 
-Languages
+## 💻 Languages
 
-Python • Go • C++ • Java • SQL • JavaScript
+**Python** • **Go** • **C++** • **Java** • **SQL** • **JavaScript**
 
-Backend
+## ⚙️ Backend
 
-FastAPI • Flask • Node.js • REST APIs • PostgreSQL • Docker
+**FastAPI** • **Flask** • **Node.js** • **REST APIs** • **PostgreSQL** • **Docker**
 
-AI
+## 🤖 AI & Robotics
 
-PyTorch • OpenCV • ROS • Computer Vision
+**PyTorch** • **OpenCV** • **ROS** • **Computer Vision**
 
-Tools
+## 🛠️ Tools
 
-Linux • Git • GitHub Actions
+**Linux** • **Git** • **GitHub** • **GitHub Actions**
 
 ---
 
