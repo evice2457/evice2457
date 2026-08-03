@@ -1,65 +1,77 @@
-# Hi there, I'm Nghia 👋
+# Hi, I'm Nghia 👋
 
-🎓 Artificial Intelligence Student @ University of Technology Sydney (UTS)
+Backend AI Engineer | AI Student @ UTS | Research Assistant @ IVS | Co-Founder @ Odylytics
 
-💻 Backend Engineer with a strong interest in AI systems and distributed infrastructure.
+I enjoy building backend systems that power AI applications and solving real-world problems through technology. My interests span backend engineering, computer vision, robotics, and distributed systems.
 
-🔬 Research Assistant @ IVS
-- Computer Vision
-- Robotics
-- LiDAR Perception
-
-🚀 Co-Founder @ Odylytics
-Building AquaGuard, a disaster response platform improving flood resilience and emergency coordination.
+Beyond software engineering, I enjoy public speaking, hosting events, and teaching English. I believe great engineers should be able to communicate ideas as effectively as they build them.
 
 ---
 
-## Current Focus
+## 🚀 Featured Experience
 
-- Backend Engineering
-- AI Infrastructure
+### 🤖 Research Assistant @ IVS
+
 - Computer Vision
 - Robotics
-- Distributed Systems
+- LiDAR-based perception
+- ROS & Ubuntu
+- Pothole surface reconstruction research
+
+### 🌊 Co-Founder @ Odylytics
+
+Building **AquaGuard**, a disaster response platform for flood preparedness and emergency coordination.
+
+- Product strategy
+- AI integration
+- User research
+- Technical planning
+
+### 💻 Web Developer
+
+- Supported the development of an IELTS assessment platform serving 200+ active students per month.
+- Built an automation tool using **Node.js** and **Playwright** to automate content uploads and deployment workflows.
+- Collaborated with academic staff and developers to translate educational requirements into technical solutions.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
+Languages
 
-Python • Go • C++ • Java • SQL
+Python • Go • C++ • Java • SQL • JavaScript
 
-**Backend**
+Backend
 
 FastAPI • Flask • Node.js • REST APIs • PostgreSQL • Docker
 
-**AI**
+AI
 
-PyTorch • OpenCV • ROS • NumPy • Computer Vision
+PyTorch • OpenCV • ROS • Computer Vision
 
-**Tools**
+Tools
 
-Git • Linux • Ubuntu • GitHub Actions
+Linux • Git • GitHub Actions
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- Scalable Backend Systems
-- LLM Infrastructure
+- AI Infrastructure
+- Distributed Systems
 - Cloud Computing
 - Kubernetes
+- LLM Deployment
 
 ---
 
-## Featured Projects
+## 🎤 Beyond Engineering
 
-🚀 AquaGuard
-Flood emergency response platform (Web + iOS)
+When I'm away from my keyboard, you'll probably find me:
 
-🤖 Pothole Surface Reconstruction
-Monotonic Neural Networks + Computer Vision
+- Hosting events as an MC
+- Giving technical presentations
+- Teaching English
+- Participating in startup pitching competitions
 
-🛠 Backend APIs
-High-performance backend services built during Boot.dev
+I enjoy turning complex technical ideas into stories that people can easily understand.
